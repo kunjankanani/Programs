@@ -5,7 +5,7 @@ An input string is valid if:
 Open brackets must be closed by the same type of brackets.
 Open brackets must be closed in the correct order.
 Every close bracket has a corresponding open bracket of the same type.
- 
+
 
 Example 1:
 ```
@@ -68,4 +68,3 @@ bool isValid(string s) {
 ```
 
 This algorithm has a time complexity of O(n), where n is the length of the input string. It has a space complexity of O(n), since the stack could potentially hold all of the open brackets in the worst case.
-
