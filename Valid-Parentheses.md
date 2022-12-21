@@ -25,7 +25,7 @@ Input: s = "(]"
 Output: false
 ```
 
-Constraints:
+## Constraints:
 
 1 <= s.length <= 10^4
 
