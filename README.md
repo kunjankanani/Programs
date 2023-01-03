@@ -13,3 +13,5 @@
 - [35. Search Insert Position](/35.Search_Insert_Position.md)
 - [15. 3Sum](/15.3Sum.md)
 - [7. Reverse Integer](/7.Reverse_Integer.md)
+- [11. Container With Most Water](/11.Container_Most_Water.md)
+- [50. Pow(x, n)](/50.Pow(x,n).md)
