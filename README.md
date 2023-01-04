@@ -15,3 +15,5 @@
 - [7. Reverse Integer](/7.Reverse_Integer.md)
 - [11. Container With Most Water](/11.Container_Most_Water.md)
 - [50. Pow(x, n)](/50.Pow(x,n).md)
+- [66. Plus One](/66.Plus_One.md)
+- [67. Add Binary](/67.Add_Binary.md)
