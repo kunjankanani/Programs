@@ -17,3 +17,4 @@
 - [50. Pow(x, n)](/50.Pow(x,n).md)
 - [66. Plus One](/66.Plus_One.md)
 - [67. Add Binary](/67.Add_Binary.md)
+- [69. Sqrt(x)](/69.Sqrt(x).md)
