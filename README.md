@@ -18,3 +18,4 @@
 - [66. Plus One](/66.Plus_One.md)
 - [67. Add Binary](/67.Add_Binary.md)
 - [69. Sqrt(x)](/69.Sqrt(x).md)
+- [83. Remove Duplicates from Sorted List](/83.Remove_Duplicates_from_Sorted_List.md)
